@@ -19,3 +19,5 @@ https://github.com/MireyaSC/EntregasEDEM/blob/main/Entrega2_Nifi_ELK/Code/docker
 
 ## Segundo: hacemos un flujo en Nifi configurando los procesadores así:
 
+    ### Elegimos un procesador del tipo InvokeHTTP para poder ingestar datos con el API: 
+
